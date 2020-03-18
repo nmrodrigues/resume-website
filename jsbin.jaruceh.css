@@ -1,0 +1,61 @@
+header{
+  text-align: center; /* center aligned header */
+
+}
+
+hr{
+  display: block; /* adds horizontal line  */
+  /* margins arround the line */
+  overflow: hidden;
+    border-style: solid; /*  solid line */
+    border-width: 0.5px; /* 0.5px  line */
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 0.3em;
+    margin-right: 0.3em;
+    
+}
+
+
+a.link{ /* styles the link */
+  color: blue;
+}
+body{
+  font-family: Arial;
+  font-size: 14px;
+  line-height: 1.5em; /* height of the line */
+}
+
+h1{
+  font-size: 30px; /* largest text size  */
+  font-weight: 900; /*  very bold heading */
+  color: #25252a; /* dark blue - color palette */
+}
+
+
+h2{
+  font-size: 20px;
+  font-weight: bold; /* bold heading */
+  color: #38515b; /*  blue - color palette */
+ 
+}
+
+h3 {
+  font-size: 15px;
+  font-style: italic; /* adds italics*/
+  text-decoration: underline; /* adds underline*/
+   color: #38515b; /*  blue - color palette */
+}
+
+
+p{
+  font-size: 15px; /* smaller than heading */
+  font-weight: 400; /* slightly bolded */
+  
+}
+
+ul{
+  margin-left: 5px; /* creates margin to the left */
+  margin-right: 5px;  /* creates margin to the right */
+  
+}
