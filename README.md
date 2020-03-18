@@ -2,8 +2,8 @@
 
 ## Table of Contents
 [Description](#descripton)
-[Design Notes] (#design-notes)
-[Platform] (#platform)
+[Design Notes](#design-notes)
+[Platform](#platform)
 
 ## Descripton
 This website is designed to house my resume. 
