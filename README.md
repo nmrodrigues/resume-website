@@ -1,7 +1,7 @@
 # Resume
 
 ## Table of Contents
-[Description] (#descripton)
+[Description](#descripton)
 [Design Notes] (#design-notes)
 [Platform] (#platform)
 
