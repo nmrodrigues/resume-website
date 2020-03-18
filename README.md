@@ -1,9 +1,9 @@
 # Resume
 
 ## Table of Contents
-*[Description](#descripton)
-*[Design Notes](#design-notes)
-*[Platform](#platform)
+* [Description](#descripton)
+* [Design Notes](#design-notes)
+* [Platform](#platform)
 
 ## Descripton
 This website is designed to house my resume. 
